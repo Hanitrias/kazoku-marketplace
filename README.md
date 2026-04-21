@@ -20,7 +20,10 @@ Kazoku Cake Marketplace adalah aplikasi website untuk pemesanan kue kering yang 
 Membantu pengguna dalam menemukan dan memesan kue kering dengan lebih mudah serta mendapatkan rekomendasi produk yang sesuai.
 
 ## 📷 Screenshot
-
-
+<img src="img/picture1.png" width="600"/>
+<img src="img/picture2.png" width="600"/>
+<img src="img/picture3.png" width="600"/>
+<img src="img/picture4.png" width="600"/>
+<img src="img/picture5.png" width="600"/>
 ## 👤 Author
 - Haniitrs
